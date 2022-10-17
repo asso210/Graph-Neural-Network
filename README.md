@@ -16,3 +16,8 @@ To run code it's essential that you've already installed [Keras](https://github.
 ```python
 pip install spektral
 ```
+Other libraries present in the code are 
+
+```python
+pip install pandas, statistics, numpy, sklearn, seaborn, matplotlib
+```
