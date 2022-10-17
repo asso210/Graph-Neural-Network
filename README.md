@@ -21,3 +21,9 @@ Other libraries present in the code are
 ```python
 pip install pandas, statistics, numpy, sklearn, seaborn, matplotlib
 ```
+
+To visualize graph we use the library [Netowrkx](https://github.com/networkx/networkx)
+
+```python
+pip install networkx
+```
