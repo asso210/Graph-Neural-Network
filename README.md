@@ -12,3 +12,7 @@ A graph is defined as G = (V,E,A) where V is a set of nodes (or vertex), E is a 
 ## Installation 
 
 To run code it's essential that you've already installed [Keras](https://github.com/keras-team/keras) and [TensorFlow](https://github.com/tensorflow/tensorflow). To install Spektral the best way is from PyPi
+
+```python
+pip install spektral
+```
