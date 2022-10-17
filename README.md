@@ -7,3 +7,8 @@ To implent GNN we use [Spektral](https://github.com/danielegrattarola/spektral#r
 A graph is defined as G = (V,E,A) where V is a set of nodes (or vertex), E is a set of edges (or links) and A is the adjacency matrix. An example of graph is shown in the figure below
 
 ![Example of graph](./images/graph.png)
+
+
+## Installation 
+
+To run code it's essential that you've already installed [Keras](https://github.com/keras-team/keras) and [TensorFlow](https://github.com/tensorflow/tensorflow). To install Spektral the best way is from PyPi
