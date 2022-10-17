@@ -8,7 +8,13 @@ A graph is defined as G = (V,E,A) where V is a set of nodes (or vertex), E is a 
 
 ![Example of graph](./images/graph.png)
 
+A graph can be directed if the edges have a specific direction or undirected if edges don't have any direction. 
+A graph can be weighted if in the edges is given a numerical weight or unweighted if each weight in the link is 1 and equal for all the links. 
+
 ## How does a GNN work?
+
+GNN is a class of artificial neural network for processing data that can be represented as graphs.
+
 
 ## Why GNNs?
 
