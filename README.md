@@ -5,3 +5,5 @@ To implent GNN we use [Spektral](https://github.com/danielegrattarola/spektral#r
 ## What is a graph?
 
 A graph is defined as G = (V,E,A) where V is a set of nodes (or vertex), E is a set of edges (or links) and A is the adjacency matrix. An example of graph is shown in the figure below
+
+![Example of graph](./images/graph.png)
