@@ -8,6 +8,11 @@ A graph is defined as G = (V,E,A) where V is a set of nodes (or vertex), E is a 
 
 ![Example of graph](./images/graph.png)
 
+## How does a GNN work?
+
+## Why GNNs?
+
+
 
 ## Installation 
 
@@ -27,3 +32,9 @@ To visualize graph we use the library [Netowrkx](https://github.com/networkx/net
 ```python
 pip install networkx
 ```
+
+## Dataset
+
+## Getting started 
+
+
