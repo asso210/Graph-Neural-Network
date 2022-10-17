@@ -15,6 +15,8 @@ A graph can be weighted if in the edges is given a numerical weight or unweighte
 
 GNN is a class of artificial neural network for processing data that can be represented as graphs.
 
+![GNN](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datacamp.com%2Ftutorial%2Fcomprehensive-introduction-graph-neural-networks-gnns-tutorial&psig=AOvVaw2FEhkEYHwUAIIBL_9mep-h&ust=1666084512773000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPC1ps725voCFQAAAAAdAAAAABAE)
+
 
 ## Why GNNs?
 
