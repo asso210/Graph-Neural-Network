@@ -17,6 +17,12 @@ GNN is a class of artificial neural network for processing data that can be repr
 
 ![GNN](https://res.cloudinary.com/dyd911kmh/image/upload/v1658404110/GNN_39d56fb37d.png)
 
+https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project
+
+https://www.datacamp.com/tutorial/comprehensive-introduction-graph-neural-networks-gnns-tutorial
+
+https://www.analyticsvidhya.com/blog/2022/03/what-are-graph-neural-networks-and-how-do-they-work/
+
 
 ## Why GNNs?
 
